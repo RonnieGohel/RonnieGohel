@@ -38,6 +38,8 @@ I'm a second year Computer Science student.
 
 </div>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RonnieGohel)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=RonnieGohel&icon=0&color=1)](https://visitcount.itsvg.in)
 
